@@ -66,6 +66,26 @@ I'm a passionate software engineer with expertise spanning from low-level C++ pr
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎮 [CS2Servers.info](https://cs2servers.info)
+**Counter-Strike 2 Server Directory & Analytics Platform**
+
+A comprehensive web platform for CS2 server discovery and monitoring, built with modern web technologies and real-time data processing.
+
+**🔧 Tech Stack:** `NodeJS` `Next` `MariaDB` `AWS EC2` `AWS S3`
+
+**✨ Key Features:**
+- **Real-time server monitoring** with live player counts and status updates
+- **Advanced filtering system** for server discovery by game modes, regions, and player preferences  
+- **Performance analytics** with detailed server statistics and historical data
+- **RESTful API** providing server data to third-party applications
+- **Responsive design** optimized for desktop and mobile gaming communities
+
+**🎯 Impact:** Serving thousands of CS2 players daily with reliable server information and community features.
+
+---
+
 ## 🔬 Currently Exploring
 
 ```python
